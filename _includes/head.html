@@ -1,9 +1,20 @@
-<script>
-MathJax = {
-  tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+<!-- MathJax -->
+<script type="text/javascript">
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$','$$']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
 };
 </script>
 
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
+
+<!-- Custom font -->
+<link rel="stylesheet" href="/assets/css/custom.css">
+
