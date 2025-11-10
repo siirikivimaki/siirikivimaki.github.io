@@ -1,9 +1,9 @@
-<link rel="stylesheet" href="/assets/css/custom.css">
-<div style="display:none">
-<script type="text/javascript" async
+<script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
-</div>
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 
 Welcome to my academic website. I am a mathematician working in the field of set theory. I am currently doing my PhD as a cotutelle agreement between Université Paris Cité and University of Helsinki, under the supervision of Juliette Kennedy, Jouko Väänänen and Boban Veličković.
 
