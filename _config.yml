@@ -2,3 +2,8 @@ theme: minima
 # title: Siiri Kivimäki
 description: Mathematician
 
+navigation:
+  - title: About
+    url: /about
+  - title: Research
+    url: /research
