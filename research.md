@@ -15,5 +15,5 @@ title: Research
 - Cartagena logic (2023), Siiri Kivimäki, Andrés Villaveces, Jouko Väänänen.  Available at [arxiv:2108.13495](https://arxiv.org/abs/2108.13495). Submitted.
 - Characterization of L¹<sub>κ</sub> (2023), Siiri Kivimäki, Boban Veličković - Available at [arXiv:2303.10759](https://arxiv.org/abs/2303.10759). Preprint.
 
-<img src="assets/images/mountain.jpg" alt="Siiri Kivimäki" style="width:400px; float:left; margin-left:20px; margin-bottom:20px;">
+<img src="assets/images/mountain.jpg" alt="Siiri Kivimäki" style="width:400px; float:left; margin-left:20px; margin-top:20px; margin-bottom:20px;">
 
