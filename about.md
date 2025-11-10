@@ -11,4 +11,5 @@ I am a mathematician working in the field of set theory. My research interests i
 
 Contact me at siiri dot kivimaki at helsinki dot fi.
 
+<img src="assets/images/me.jpg" alt="Siiri Kivimäki" style="width:200px; float:right; margin-left:20px; margin-bottom:20px;">
 
