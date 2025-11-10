@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="/assets/css/custom.css">
 
+---
+title: Research
+---
 
 # Papers, preprints and notes
 
