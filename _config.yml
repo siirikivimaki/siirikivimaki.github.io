@@ -3,7 +3,5 @@ theme: minima
 description: Mathematician
 
 navigation:
-  - title: About
-    url: /about
   - title: Research
     url: /research
