@@ -1,8 +1,10 @@
-<link rel="stylesheet" href="/assets/css/custom.css">
-
 ---
+layout: default
 title: Research
 ---
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 
 # Papers, preprints and notes
 
