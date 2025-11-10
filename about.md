@@ -1,8 +1,10 @@
-<link rel="stylesheet" href="/assets/css/custom.css">
-
 ---
+layout: default
 title: About
 ---
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 
 I am a mathematician working in the field of set theory. My research interests include forcing and combinatorics of uncountable objects, universality problems and model theory of infinitary logics. 
 
