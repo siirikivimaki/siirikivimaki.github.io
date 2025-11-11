@@ -5,3 +5,5 @@ description: Mathematician
 navigation:
   - title: Research
     url: /research
+  - title: About
+    url: /
