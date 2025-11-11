@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
