@@ -9,7 +9,7 @@ title: Research
 # Papers, preprints and notes
 
 - Wide Aronszajn lines (with Haytham Hammud), 2025. In preparation.
-- Universal countably chromatic graph, 2025. In preparation.
+- Universal countably chromatic graph, 2025. Available at [arxiv:2511.07608](https://arxiv.org/abs/2511.07608). Submitted.
 - Universal wide Aronszajn tree, 2025. Available at [arxiv:2511.06526](https://arxiv.org/abs/2511.06526). Submitted.
 - Aronszajn trees and maximality (with Omer Ben-Neria, Menachem Magidor, and Jouko Väänänen), 2024. Available at [arXiv:2305.07880](https://arxiv.org/abs/2305.07880). Submitted.
 - Cartagena logic (with Andrés Villaveces and Jouko Väänänen), 2023.  Available at [arxiv:2108.13495](https://arxiv.org/abs/2108.13495). Submitted.
