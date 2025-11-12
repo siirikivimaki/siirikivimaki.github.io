@@ -6,7 +6,7 @@ title: Research
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 
-# Papers, preprints and notes
+# Papers and preprints
 
 - Wide Aronszajn lines (with Haytham Hammud), 2025. In preparation.
 - Universal countably chromatic graph, 2025. Available at <a href="https://arxiv.org/abs/2511.07608" target="_blank" rel="noopener noreferrer">arxiv:2511.07608</a>. Submitted.
