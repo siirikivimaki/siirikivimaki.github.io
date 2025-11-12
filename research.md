@@ -15,4 +15,9 @@ title: Research
 - Cartagena logic (with Andrés Villaveces and Jouko Väänänen), 2023.  Available at <a href="https://arxiv.org/abs/2108.13495" target="_blank" rel="noopener noreferrer">arxiv:2108.13495</a>. Submitted.
 - Characterization of L¹<sub>κ</sub> (with Boban Veličković), 2023. Available at <a href="https://arxiv.org/abs/2303.10759" target="_blank" rel="noopener noreferrer">arXiv:2303.10759</a>. Preprint.
 
+# Notes
+
+- Notes on <a href="assets/pdfs/24_12_03_Laver_Shelah.pdf" target="_blank">Laver-Shelah</a>.
+
 <img src="assets/images/mountain.jpg" alt="Siiri Kivimäki" style="width:400px; float:left; margin-left:20px; margin-top:30px; margin-bottom:20px;">
+
