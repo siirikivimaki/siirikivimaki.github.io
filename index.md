@@ -16,7 +16,7 @@ See my research <a href="research.html">here</a>. For more, see my <a href="asse
 
 Contact me at siiri dot kivimaki at helsinki dot fi.
 
-<img src="assets/images/me.jpg" alt="Siiri Kivimäki" style="width:200px; float:right; margin-left:20px; margin-bottom:20px;">
+<img src="assets/images/me.jpg" alt="Siiri Kivimäki" style="width:230px; float:right; margin-left:20px; margin-bottom:20px;">
 
 
 
