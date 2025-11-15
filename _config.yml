@@ -7,3 +7,7 @@ navigation:
     url: /research
   - title: About
     url: /
+
+plugins:
+  - jekyll-seo-tag
+
