@@ -2,12 +2,14 @@ theme: minima
 # title: Siiri Kivimäki
 description: Mathematician
 
+plugins:
+  - jekyll-seo-tag
+
 navigation:
   - title: Research
     url: /research
   - title: About
     url: /
 
-plugins:
-  - jekyll-seo-tag
+
 
