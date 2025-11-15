@@ -1,7 +1,13 @@
 ---
 layout: default
 title: About
+description: "Personal website of Siiri Kivimäki"
+seo:
+  meta:
+    - name: "google-site-verification"
+      content: "rqWc7Gb5o6szBizLDieOhNUuFNyt7F9w23K_8_z5i9M"
 ---
+
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
