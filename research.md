@@ -18,6 +18,6 @@ permalink: /research/
 
 # Notes
 
-- <a href="{{ site.baseurl }}/assets/pdfs/Laver_Shelah.pdf" target="_blank">Notes</a> on Laver-Shelah.
-
 <img src="{{ site.baseurl }}/assets/images/mountain.jpg" alt="Siiri Kivimäki" style="width:400px; float:right; margin-left:20px; margin-bottom:20px;">
+
+- <a href="{{ site.baseurl }}/assets/pdfs/Laver_Shelah.pdf" target="_blank">Notes</a> on Laver-Shelah.
