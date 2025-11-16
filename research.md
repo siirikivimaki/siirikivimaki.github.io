@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
-
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
 
 # Papers and preprints
 
