@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Research
+title: "Research"
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
