@@ -20,4 +20,4 @@ permalink: /research/
 
 - <a href="assets/pdfs/Laver_Shelah.pdf" target="_blank">Notes</a> on Laver-Shelah.
 
-<img src="assets/images/mountain.jpg" alt="Siiri Kivimäki" style="width:300px; float:right; margin-left:20px; margin-bottom:20px;">
+<img src="assets/images/mountain.jpg" alt="Siiri Kivimäki" style="width:400px; float:right; margin-left:20px; margin-bottom:20px;">
