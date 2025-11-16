@@ -2,9 +2,6 @@ theme: minima
 title: "Siiri Kivimäki"
 description: "Mathematician"
 
-url: "https://siirikivimaki.github.io"
-baseurl: ""
-
 plugins:
   - jekyll-seo-tag
 
@@ -14,3 +11,14 @@ navigation:
   - title: About
     url: /
 
+# Optional but recommended:
+markdown: kramdown
+highlighter: rouge
+baseurl: ""       # leave empty for username.github.io
+url: "https://siirikivimaki.github.io"
+
+# Minima theme settings (optional)
+minima:
+  skin: classic
+  social_links:
+    github: siirikivimaki
