@@ -1,9 +1,12 @@
-theme: minima
+#theme: minima
 title: "Siiri Kivimäki"
 description: "Mathematician"
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 
 navigation:
   - title: Research
