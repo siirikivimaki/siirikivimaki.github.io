@@ -14,11 +14,11 @@ Currently I am doing my PhD as a cotutelle agreement between Université Paris C
 
 See my research <a href="research.html">here</a>. For more, see my <a href="assets/pdfs/researchstatement.pdf" target="_blank">research statement</a> or <a href="assets/pdfs/cv.pdf" target="_blank">CV</a>.
 
+<img src="assets/images/me.jpg" alt="Siiri Kivimäki" style="width:300px; float:right; margin-left:20px; margin-bottom:20px; border-radius:50%;">
 
 
 Contact me at siiri dot kivimaki at helsinki dot fi.
 
-<img src="assets/images/me.jpg" alt="Siiri Kivimäki" style="width:300px; float:right; margin-left:20px; margin-bottom:20px;">
 
 
 
