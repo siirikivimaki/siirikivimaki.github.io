@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "About"
 description: "Personal website of Siiri Kivimäki"
 ---
 
