@@ -15,7 +15,7 @@ Currently I am doing my PhD as a cotutelle agreement between Université Paris C
 
 For more details, see my <a href="assets/pdfs/cv.pdf" target="_blank">CV</a>. See my research [here](/research).
 
-Contact me at siiri dot kivimaki at helsinki dot fi.
+Contact me at siiri dot kivimaki at proton dot me.
 
 
 
