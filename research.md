@@ -15,8 +15,10 @@ permalink: /research/
 - Cartagena logic (with Andrés Villaveces and Jouko Väänänen), 2023.  Available at <a href="https://arxiv.org/abs/2108.13495" target="_blank" rel="noopener noreferrer">arxiv:2108.13495</a>. Submitted.
 - Characterization of $\mathcal{L}^1_\kappa$ (with Boban Veličković), 2023. Available at <a href="https://arxiv.org/abs/2303.10759" target="_blank" rel="noopener noreferrer">arXiv:2303.10759</a>. Preprint.
 
-# Notes
+# Other
 
 <img src="{{ site.baseurl }}/assets/images/mountain.jpg" alt="Siiri Kivimäki" style="width:400px; float:right; margin-left:20px; margin-bottom:20px;">
 
 - <a href="{{ site.baseurl }}/assets/pdfs/Laver_Shelah.pdf" target="_blank">Notes</a> on Laver-Shelah.
+
+- My <a href="{{ site.baseurl }}/assets/pdfs/phd-thesis.pdf" target="_blank">PhD thesis</a> and my <a href="{{ site.baseurl }}/assets/pdfs/gradu.pdf" target="_blank">masters thesis</a>.
