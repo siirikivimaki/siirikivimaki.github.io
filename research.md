@@ -21,4 +21,4 @@ permalink: /research/
 
 - <a href="{{ site.baseurl }}/assets/pdfs/Laver_Shelah.pdf" target="_blank">Notes</a> on Laver-Shelah.
 
-- My <a href="{{ site.baseurl }}/assets/pdfs/phd-thesis.pdf" target="_blank">PhD thesis</a> and my <a href="{{ site.baseurl }}/assets/pdfs/gradu.pdf" target="_blank">masters thesis</a>.
+- My <a href="{{ site.baseurl }}/assets/pdfs/phd-thesis.pdf" target="_blank">PhD thesis</a> and my <a href="{{ site.baseurl }}/assets/pdfs/gradu.pdf" target="_blank">master's thesis</a>.
