@@ -15,7 +15,7 @@ My research interests in set theory include forcing and combinatorics of uncount
 
 For more details, see my <a href="assets/pdfs/cv.pdf" target="_blank">CV</a>. See my research [here](/research).
 
-Contact me at siiri dot kivimaki at proton dot me.
+Contact me at siiri at berkeley dot edu or siiri dot kivimaki at proton dot me.
 
 
 
