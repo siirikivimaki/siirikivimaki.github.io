@@ -15,5 +15,5 @@ For more details, see my <a href="assets/pdfs/cv.pdf" target="_blank">CV</a>. Se
 
 Contact me at siiri at berkeley dot edu or siiri dot kivimaki at proton dot me.
 
-<img src="assets/images/me.jpg" alt="Siiri Kivimäki" style="width:320px; float:left; margin-left:20px; margin-bottom:20px;">
+<img src="assets/images/me.jpg" alt="Siiri Kivimäki" style="width:350px; float:right; margin-left:20px; margin-bottom:20px;">
 
