@@ -21,7 +21,7 @@ Contact me at siiri at berkeley dot edu or siiri dot kivimaki at proton dot me.
     alt="Siiri Kivimäki"
     style="width:100%; display:block;"
   >
-  <figcaption style="text-align:center; margin-top:8px; font-size:0.9em;">
+  <figcaption style="margin-top:8px; font-size:0.9em;">
     Picture by George Bergman
   </figcaption>
 </figure>
