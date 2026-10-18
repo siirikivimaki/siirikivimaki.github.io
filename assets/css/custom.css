@@ -9,11 +9,11 @@ body {
 a,
 a:visited {
   color: #94658D;
-  font-weight: bold;
+  font-weight: normal;
   text-decoration: none;
 }
 
 a:hover {
   color: #795171;
-  text-decoration: none;
+  text-decoration: underline;
 }
