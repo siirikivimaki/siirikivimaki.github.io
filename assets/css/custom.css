@@ -6,14 +6,14 @@ body {
   max-width: 900px;
 }
 
-a,
-a:visited {
+.page-content a,
+.page-content a:visited {
   color: #94658D;
   font-weight: normal;
   text-decoration: none;
 }
 
-a:hover {
+.page-content a:hover {
   color: #795171;
   text-decoration: underline;
 }
