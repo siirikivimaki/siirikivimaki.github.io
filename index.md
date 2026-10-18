@@ -15,5 +15,13 @@ For more details, see my <a href="assets/pdfs/cv.pdf" target="_blank">CV</a>. Se
 
 Contact me at siiri at berkeley dot edu or siiri dot kivimaki at proton dot me.
 
-<img src="assets/images/me.jpg" alt="Siiri Kivimäki" style="width:350px; float:right; margin-left:20px; margin-bottom:20px;">
-
+<figure style="width:350px; float:right; margin:0 0 20px 20px;">
+  <img
+    src="assets/images/me.jpg"
+    alt="Siiri Kivimäki"
+    style="width:100%; display:block;"
+  >
+  <figcaption style="text-align:center; margin-top:8px; font-size:0.9em;">
+    Picture by George Bergman
+  </figcaption>
+</figure>
