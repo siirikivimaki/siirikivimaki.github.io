@@ -7,7 +7,7 @@ description: "Personal website of Siiri Kivimäki"
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-<figure style="float:right; width:350px; margin:0 0 20px 20px;">
+<figure style="float:right; width:350px; margin:0 15px 15px 15px;">
   <img
     src="assets/images/me.jpg"
     alt="Siiri Kivimäki"
