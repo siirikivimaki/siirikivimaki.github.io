@@ -2,10 +2,6 @@ body {
   font-family: Georgia, serif;
 }
 
-.wrapper {
-  max-width: 920px;
-}
-
 a,
 a:visited {
   color: #68445E;
