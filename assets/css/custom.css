@@ -8,12 +8,12 @@ body {
 
 a,
 a:visited {
-  color: #B0558A;
+  color: #94658D;
   font-weight: bold;
   text-decoration: none;
 }
 
 a:hover {
-  color: #943D70;
+  color: #795171;
   text-decoration: none;
 }
