@@ -8,12 +8,12 @@ body {
 
 .page-content a,
 .page-content a:visited {
-  color: #3A4F00;
+  color: #526B12;
   font-weight: normal;
   text-decoration: none;
 }
 
 .page-content a:hover {
-  color: #3A4F00;
+  color: #526B12;
   text-decoration: underline;
 }
